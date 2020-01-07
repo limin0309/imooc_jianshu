@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="dell">
       <GlobalStyle />
-      <Header/>
+      <Header />
     </div>
   );
 }
